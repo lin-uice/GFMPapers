@@ -39,7 +39,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 3. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[paperlist](https://github.com/BUPT-GAMMA/GFMPapers)]
 4. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[paperlist](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
 5. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[paperlist](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
-6. [arXiv 2024.2] **Graph Foundation Models**. [[pdf](https://arxiv.org/pdf/2402.02216.pdf)][[paperlist](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)][[paperlist2](https://github.com/CurryTang/Towards-graph-foundation-models)]
+6. [ICML 2024] **Graph Foundation Models**. [[pdf](https://arxiv.org/pdf/2402.02216.pdf)][[paperlist](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)][[paperlist2](https://github.com/CurryTang/Towards-graph-foundation-models)]
 7. [arXiv 2024.2] **Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques**. [[pdf](https://arxiv.org/pdf/2402.05952.pdf)]
 8. [arXiv 2024.2] **Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**. [[pdf](https://arxiv.org/pdf/2402.11641.pdf)]
 9. [arXiv 2024.3] **A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**. [[pdf](https://arxiv.org/pdf/2403.16137.pdf)][[paperlist](https://github.com/Newiz430/Pretext)]
